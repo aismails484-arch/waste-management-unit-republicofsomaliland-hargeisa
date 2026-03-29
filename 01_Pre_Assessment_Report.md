@@ -1,4 +1,3 @@
-# 01 Pre-Assessment Report
 ## Hargeisa Waste Management Assessment
 
 ### Author & Responsible Officer
