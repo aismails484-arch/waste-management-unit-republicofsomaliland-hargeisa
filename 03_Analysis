@@ -1,24 +1,34 @@
-## Waste Management & Sanitation Data Analysis
-
-### Key Analysis Areas
-- Service coverage and gaps
-- Infrastructure adequacy
-- Environmental risk zones
-- Performance of private companies
+# 03 Analysis
+## Waste Management and Sanitation Analysis
 
 ---
 
-### Data Analysis Tables
-| Parameter | Observation | Gap Identified |
-|-----------|------------|----------------|
-| Waste bins | <data> | <gap> |
-| Tanks | <data> | <gap> |
-| WASH facilities | <data> | <gap> |
-| Collection frequency | <data> | <gap> |
+## 1. Analysis Areas
+- Infrastructure availability  
+- Service coverage  
+- Environmental risk zones  
+- Operational gaps  
 
 ---
 
-### Summary of Findings
-- Highlight critical gaps
-- Correlation between infrastructure and environmental risk
-- Identify priority areas for intervention
+## 2. Data Analysis
+
+| Parameter | Observation | Gap |
+|-----------|------------|-----|
+| Waste Bins | Limited | Expansion required |
+| Waste Tanks | None | Major infrastructure gap |
+| WASH Facilities | Limited | Public health concern |
+| Collection Services | Inconsistent | Efficiency gap |
+
+---
+
+## 3. Key Findings
+- Waste infrastructure does not meet demand  
+- Environmental risks linked to poor drainage and dumping  
+- WASH facilities are inadequate  
+- Service delivery lacks consistency  
+
+---
+
+## 4. Conclusion
+Significant gaps exist in waste management systems. Strategic interventions are required to improve sanitation and environmental conditions.
