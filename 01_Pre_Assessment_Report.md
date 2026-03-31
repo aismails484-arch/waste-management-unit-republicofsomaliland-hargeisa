@@ -1,51 +1,59 @@
-## Hargeisa Waste Management Assessment
+# 01 Pre-Assessment Report
+## Hargeisa Urban Environmental Sanitation and Waste Management Assessment
 
-### Author & Responsible Officer
+### Prepared by
 Ahmed Ismail Saed Hussein  
-Department of Sanitation, Ministry of Environment and Climate Change  
+Responsible Officer – Waste Management Unit  
+Department of Sanitation  
+Ministry of Environment and Climate Change  
 
 ---
 
-## Executive Summary
-<Short summary of the pre-assessment purpose, objectives, and key highlights>
+## 1. Executive Summary
+This report presents a pre-assessment of environmental sanitation and waste management conditions in Hargeisa, focusing on 26 June District and 31 May District.
+
+The assessment was conducted through field observations over a period of eight days to identify infrastructure gaps, environmental risks, and service delivery challenges.
+
+Key findings indicate insufficient waste management infrastructure, limited WASH facilities, and the presence of informal waste disposal practices. The report provides a foundation for further analysis, planning, and policy development.
 
 ---
 
-## Objectives
-- Evaluate waste management infrastructure in Hargeisa.
-- Identify sanitation and environmental risk areas.
-- Assess service coverage and operational gaps.
-- Support strategic planning and decision-making.
-- Contribute to policy and coordination frameworks.
+## 2. Objectives
+- Assess waste management infrastructure availability  
+- Identify environmental sanitation risks  
+- Evaluate service coverage and operational gaps  
+- Support planning and decision-making  
+- Contribute to policy and coordination frameworks  
 
 ---
 
-## Methodology
-- Direct field observation
-- Environmental sanitation assessment
-- Identification of waste disposal practices
-- Rapid cleanliness scoring system
-- Data analysis
+## 3. Methodology
+The assessment was conducted using:
+- Direct field observation  
+- Environmental sanitation inspection  
+- Waste disposal practice identification  
+- Rapid cleanliness scoring system  
+- Documentation of environmental risks  
 
 ---
 
-## Key Findings
-- Preliminary infrastructure gaps
-- Areas with high environmental risk
-- Initial service coverage issues
-- Observed challenges with coordination and private companies
+## 4. Key Findings
+- Limited number of public waste bins  
+- Absence of community waste containers  
+- Lack of WASH facilities in public areas  
+- Presence of informal dumping sites  
+- Inconsistent waste collection services  
 
 ---
 
-## Recommendations
-- Immediate actions to improve sanitation in high-risk areas
-- Coordination framework with private waste collection companies
-- Structured monitoring plan
+## 5. Recommendations
+- Install additional public waste bins  
+- Establish community waste collection systems  
+- Improve coordination with private waste companies  
+- Introduce WASH facilities in public areas  
+- Strengthen monitoring and reporting mechanisms  
 
 ---
 
-## Notes
-- Pre-assessment is initial phase; field data to follow
-- Data-sharing limitations and licensing constraints observed
-
----
+## 6. Conclusion
+The pre-assessment highlights critical gaps in waste management and sanitation systems. Immediate interventions are required to improve environmental conditions and public health.
