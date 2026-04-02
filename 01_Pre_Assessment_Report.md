@@ -1,4 +1,3 @@
-# 01 Pre-Assessment Report
 ## Hargeisa Urban Environmental Sanitation and Waste Management Assessment
 
 ### Prepared by
