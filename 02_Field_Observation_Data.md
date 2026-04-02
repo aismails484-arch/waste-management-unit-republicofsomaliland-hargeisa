@@ -14,7 +14,7 @@
 ## 2. Observations
 
 | Category | Status | Description |
-|----------|--------|-------------|
+|----------|--------|------------|
 | Waste Bins | Insufficient | Limited number in public areas |
 | Waste Tanks | Not Available | No structured community tanks |
 | WASH Facilities | Limited | Lack of handwashing stations |
