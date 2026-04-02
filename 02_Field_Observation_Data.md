@@ -1,4 +1,3 @@
-# 02 Field Observation Data
 ## Hargeisa – 26 June & 31 May Districts
 
 ---
